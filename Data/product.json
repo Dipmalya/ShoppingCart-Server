@@ -1,0 +1,1513 @@
+[
+  {
+    "id": "001",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Xiaomi",
+    "name": "Redmi Note 5 Pro",
+    "price": "14999",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jdkjzww0/mobile/y/q/m/redmi-note-5-pro-mzb6084in-original-imaf2g8zj6y5vkqn.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jdkjzww0/mobile/x/f/y/redmi-note-5-pro-mzb6080in-original-imaf2g8zxrpfrt6v.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jdkjzww0/mobile/y/q/m/redmi-note-5-pro-mzb6084in-original-imaf2g8zeh2hgaud.jpeg?q=70"
+    ],
+    "ram": "4GB",
+    "storage": "64GB",
+    "rear_camera": "12MP + 5MP",
+    "front_camera": "20MP",
+    "display": "15.21 cm (5.99 inch) Full HD+ Display",
+    "battery": "4000 mAh Li Polymer Battery",
+    "soc": "Qualcomm Snapdragon 636 Processor"
+  },
+  {
+    "id": "002",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy A7",
+    "price": "23990",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmgmmq80/mobile/x/f/z/samsung-galaxy-a7-sm-a750fzbhins-original-imaf9d35cv5anzqw.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmgmmq80/mobile/x/f/z/samsung-galaxy-a7-sm-a750fzbhins-original-imaf9d35gwut9uh5.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmgmmq80/mobile/x/f/z/samsung-galaxy-a7-sm-a750fzbhins-original-imaf9d35gkhy6dmb.jpeg?q=70"
+    ],
+    "ram": "4GB",
+    "storage": "64GB",
+    "rear_camera": "24MP + 5MP + 8MP",
+    "front_camera": "24MP",
+    "display": "15.24 cm (6.0 inch) FHD+ Display",
+    "battery": "3300 mAh Lithium-ion Battery",
+    "soc": "Samsung Exynos Octa Core Processor (2.2 GHz) Processor"
+  },
+  {
+    "id": "003",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "OnePlus",
+    "name": "OnePlus 5",
+    "price": "35999",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jeykeq80/mobile/n/q/v/oneplus-oneplus-5-a5000-original-imaf3jfkg8jkhdfh.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jcktzm80/mobile/n/q/v/oneplus-oneplus-5-a5000-original-imaffzjzexrrgfgg.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jcnovbk0/mobile/n/q/v/oneplus-oneplus-5-a5000-original-imaffzjzbqydfjhh.jpeg?q=70"
+    ],
+    "ram": "8GB",
+    "storage": "128GB",
+    "rear_camera": "16MP + 20MP",
+    "front_camera": "16MP",
+    "display": "13.97 cm (5.5 inch) Full HD Display",
+    "battery": "3300 mAh Lithium-ion Battery",
+    "soc": "Qualcomm Snapdragon 835 Processor"
+  },
+  {
+    "id": "004",
+    "category": "fashion",
+    "sub_category": "Men",
+    "brand": "Maniac",
+    "name": "Maniac checkered Men's T-Shirt",
+    "type": "T-Shirt",
+    "price": "449",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jdyuefk0/t-shirt/j/6/h/s-mens-ss18-rn-fs-checked-tshirt-navy-maniac-original-imaf2r9whsgg7bxg.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jdyuefk0/t-shirt/j/6/h/xl-mens-ss18-rn-fs-checked-tshirt-navy-maniac-original-imaf2r9hkq9wq85h.jpeg?q=70"
+    ],
+    "feature": "Full sleeve round neck",
+    "size": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": "005",
+    "category": "fashion",
+    "sub_category": "Men",
+    "type": "Shirt",
+    "brand": "Highlander",
+    "name": "Highlander Men Checkered Shirt",
+    "price": "649",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jhjg13k0/shirt/s/e/f/m-hlsh009231-navy-blue-red-highlander-original-imaf5g64jtj3gtuf.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jhjg13k0/shirt/s/e/f/m-hlsh009231-navy-blue-red-highlander-original-imaf5g64dddwtsgt.jpeg?q=70"
+    ],
+    "feature": "Full sleeve cotton casual",
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "006",
+    "category": "fashion",
+    "sub_category": "Women",
+    "brand": "Saara",
+    "type": "Saree",
+    "name": "Saara Self Design Fashion Poly Silk Saree",
+    "price": "699",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jhmawsw0/sari/v/9/d/free-618s504-saara-original-imaf4yypb2hkvjwv.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jhmawsw0/sari/v/9/d/free-618s504-saara-original-imaf4yypswdzczz7.jpeg?q=70"
+    ],
+    "feature": "Poly Silk , Blouse Fabric : Poly Silk"
+  },
+  {
+    "id": "007",
+    "category": "fashion",
+    "sub_category": "Women",
+    "type": "Casual Top",
+    "brand": "Senhzim",
+    "name": "Rare Casual Bell Sleeve Top",
+    "price": "517",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j6zcwi80/top/y/s/x/m-ep2050a-rare-original-imaexb33qwvfjk6g.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j6zcwi80/top/s/d/m/s-ep2050a-rare-original-imaexb3372ydfyvw.jpeg?q=70"
+    ],
+    "feature": "High Neck Full sleeve : Polyester",
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "008",
+    "category": "home",
+    "sub_category": "furniture",
+    "brand": "RoyalOak",
+    "name": "RoyalOak Beat Metal Coffee Table",
+    "type": "Table",
+    "price": "4699",
+    "Material": "Carbon Steel Metal",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jgv5jm80/coffee-table/5/g/8/carbon-steel-ct91-royaloak-brown-original-imaf48ssqugtzkey.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jgv5jm80/coffee-table/5/g/8/carbon-steel-ct91-royaloak-brown-original-imaf48sst3nerauc.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "009",
+    "category": "others",
+    "sub_category": "sports",
+    "brand": "Kookaburra",
+    "sports": "cricket",
+    "name": "Kookaburra Kahuna Prodigy 100 Full Size Cricket Bat",
+    "price": "690",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j9zyd8w0/bat/s/z/m/1100-1250-long-handle-kahuna-150-kashmiri-willow-kook-15-original-imaezngrt3zp7xg2.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jj7givk0/bat/a/h/q/1200-bat-short-handle-3333-kookaburra-original-imaf3ehd2mkqf7ky.jpeg?q=70"
+    ],
+    "Material": "Kashmir willow",
+    "Ideal For": "Men"
+  },
+  {
+    "id": "010",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "Dell",
+    "name": "Dell Vostro 14 3478",
+    "price": "40990",
+    "ram": "8GB",
+    "storage": "1TB HDD",
+    "processor": "i5",
+    "os": "Windows 10",
+    "display": "14 inch 1366*768 HD LED",
+    "soc": "Quad core 8th gen",
+    "usb": "1 x USB 2.0, 2 x USB 3.0",
+    "dimension": "345 x 243 x 23.35 mm",
+    "weight": "1.76 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/r/s/u/dell-na-laptop-original-imaf9ph4fbjfhzey.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/r/s/u/dell-na-laptop-original-imaf9ph4fdwjfzqr.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/r/s/u/dell-na-laptop-original-imaf9ph4qrz6vz9m.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "011",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "HP",
+    "name": "HP 15q-ds0017TU Laptop",
+    "price": "33990",
+    "ram": "8GB",
+    "storage": "1TB HDD",
+    "processor": "i3",
+    "os": "DOS",
+    "display": "15.6 inch 1366*768 HD LED",
+    "soc": "Dual core 7th gen",
+    "usb": "1 x USB 2.0, 2 x USB 3.1",
+    "dimension": "376 x 246 x 22.5 mm",
+    "weight": "1.77 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/v/u/q/hp-na-laptop-original-imaf9zypsgmfz4zk.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/v/u/q/hp-na-laptop-original-imaf9zypsheuqbbv.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/v/u/q/hp-na-laptop-original-imaf9zyphdjtyumz.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "012",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "Dell",
+    "name": "Dell Inspiron 3467",
+    "price": "27990",
+    "ram": "4GB",
+    "storage": "1TB HDD",
+    "processor": "i3",
+    "os": "Ubuntu",
+    "display": "14 inch 1366*768 HD LED",
+    "soc": "Quad core 6th gen",
+    "usb": "1 x USB 2.0, 2 x USB 3.0",
+    "dimension": "345 x 243 x 23.35 mm",
+    "weight": "1.95 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jg6v24w0/computer/r/v/b/dell-na-laptop-original-imaf4hmbhuacfw9n.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jg6v24w0/computer/g/z/c/dell-na-laptop-original-imaf4hmb8hyyh4ry.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jg6v24w0/computer/r/v/b/dell-na-laptop-original-imaf4hmbfyffqfnc.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "013",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "Dell",
+    "name": "Dell Inspiron 5575 Ryzen",
+    "price": "48490",
+    "ram": "8GB",
+    "storage": "1TB HDD",
+    "processor": "AMD",
+    "os": "Windows 10",
+    "display": "14 inch 1366*768 HD LED",
+    "soc": "Ryzen 5 Quad core 64-bit",
+    "usb": "1 x USB 2.0, 2 x USB 3.1",
+    "dimension": "380 x 258 x 22.7 mm",
+    "weight": "2.22 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/m/a/w/dell-na-laptop-original-imaf9hu4q8kmrqy8.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/m/a/w/dell-na-laptop-original-imaf9hu4h3y65d8a.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/m/a/w/dell-na-laptop-original-imaf9hu4vjg9fctn.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "014",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "Dell",
+    "name": "Dell Inspiron 7567 Gaming Laptop",
+    "price": "79990",
+    "ram": "8GB",
+    "storage": "1TB HDD",
+    "processor": "i7",
+    "os": "Windows 10",
+    "display": "15.6 inch 1920*1080 IPS Anti-glare LED",
+    "soc": "2.8GHz quad core 7th gen",
+    "gpu": "NVIDIA Geforce GTX 1050Ti",
+    "usb": "3 x USB 3.0",
+    "dimension": "384.9 x 274.73 x 25.44 mm",
+    "weight": "2.62 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/f/v/p/dell-na-gaming-laptop-original-imaf9phafdmhc9qj.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/f/v/p/dell-na-gaming-laptop-original-imaf9phabvd9sgye.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/f/v/p/dell-na-gaming-laptop-original-imaf9pha7squb4en.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "015",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "Dell",
+    "name": "Dell Inspiron 5370",
+    "price": "45990",
+    "ram": "4GB",
+    "storage": "128GB SSD",
+    "processor": "i3",
+    "os": "Windows 10",
+    "display": "13 inch 1920*1080 IPS Anti-glare LED",
+    "soc": "2.7GHz Core i3",
+    "gpu": "Intel Integrated HD 620",
+    "usb": "3 x USB 3.1",
+    "dimension": "323.9 x 219.9 x 15.81 mm",
+    "weight": "1.4 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/c/n/g/dell-na-thin-and-light-laptop-original-imaf6hfavqtykmrg.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/c/n/g/dell-na-thin-and-light-laptop-original-imaf6hfayr9zxjwx.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/c/n/g/dell-na-thin-and-light-laptop-original-imaf6hfahvxzdwhq.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "016",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "Dell",
+    "name": "Dell Inspiron 3552",
+    "price": "20490",
+    "ram": "4GB",
+    "storage": "500GB HDD",
+    "processor": "i3",
+    "os": "Linux",
+    "display": "15.6 inch 1366*768 IPS Anti-glare LED",
+    "soc": "1.6GHz Celeron Dual Core",
+    "gpu": "Intel Integrated HD",
+    "usb": "2 x USB 2.0, 1 x USB 3.0",
+    "dimension": "380 x 260.3 x 21.7 mm",
+    "weight": "1.28 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/s/7/x/dell-na-laptop-original-imaf6h36f8taybxa.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/s/7/x/dell-na-laptop-original-imaf6h36uu485ddq.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/s/7/x/dell-na-laptop-original-imaf6h36vvb4bztn.jpeg?q=70"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "HP",
+    "name": "HP 14q-cs0009TU",
+    "price": "27990",
+    "ram": "4GB",
+    "storage": "1TB HDD",
+    "processor": "i3",
+    "os": "DOS",
+    "display": "14 inch 1366*768 HD LED",
+    "soc": "2.3GHz Dual Core i3 7th Gen",
+    "gpu": "Intel Integrated HD 620",
+    "usb": "1 x USB 2.0, 2 x USB 3.1",
+    "dimension": "335 x 234 x 19.9 mm",
+    "weight": "1.47 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/f/b/c/hp-na-laptop-original-imaf9zypu2mjhzmk.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/f/b/c/hp-na-laptop-original-imaf9zypczpfeyp2.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/f/b/c/hp-na-laptop-original-imaf9zypfzvchc8y.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "018",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "HP",
+    "name": "HP 15q-ds0010TU",
+    "price": "45490",
+    "ram": "8GB",
+    "storage": "1TB HDD",
+    "processor": "i5",
+    "os": "Windows 10",
+    "display": "15.6 inch 1920*1080 HD LED",
+    "soc": "1.6GHz Quad Core i5 8th Gen",
+    "gpu": "Intel Integrated UHD 620",
+    "usb": "1 x USB 2.0, 2 x USB 3.1",
+    "dimension": "376 x 246 x 22.5 mm",
+    "weight": "1.77 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/d/d/8/hp-na-laptop-original-imaf9hu7jgv9zdjx.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/d/d/8/hp-na-laptop-original-imaf9hu7hnh3mffs.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/d/d/8/hp-na-laptop-original-imaf9hu7cbkyzpht.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "019",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "HP",
+    "name": "HP 15q-bu041TU",
+    "price": "35490",
+    "ram": "4GB",
+    "storage": "1TB HDD",
+    "processor": "i3",
+    "os": "Windows 10",
+    "display": "15.6 inch 1920*1080 HD LED",
+    "soc": "2.4GHz Dual Core i3 7th Gen",
+    "gpu": "Intel Integrated UHD 620",
+    "usb": "1 x USB 2.0, 2 x USB 3.1",
+    "dimension": "380 x 253.8 x 23.8 mm",
+    "weight": "2.3 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jk76j680/computer/7/z/t/hp-na-laptop-original-imaf7hwnmhbdnkfr.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jk76j680/computer/7/z/t/hp-na-laptop-original-imaf7hwn2qy4fdrd.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jk76j680/computer/7/z/t/hp-na-laptop-original-imaf7hwn4cyby2m8.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "020",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "HP",
+    "name": "HP 15q-ds0009TU",
+    "price": "43990",
+    "ram": "8GB",
+    "storage": "1TB HDD",
+    "processor": "i5",
+    "os": "DOS",
+    "display": "15.6 inch 1920*1080 HD LED",
+    "soc": "1.6GHz Dual Core i5 8th Gen",
+    "gpu": "Intel Integrated UHD 620",
+    "usb": "1 x USB 2.0, 2 x USB 3.0",
+    "dimension": "376 x 246 x 22.5 mm",
+    "weight": "1.77 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/h/g/d/hp-na-laptop-original-imaf9hu6hwhhzan5.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/h/g/d/hp-na-laptop-original-imaf9hu7v9xwykcr.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/h/g/d/hp-na-laptop-original-imaf9hu67b2fnr8g.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "021",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "HP",
+    "name": "HP Envy 13-ah0043tu",
+    "price": "69990",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "processor": "i5",
+    "os": "Windows 10",
+    "display": "13.3 inch 1920*1080 IPS Anti-glare",
+    "soc": "1.6GHz Quad Core i5 8th Gen",
+    "gpu": "Intel Integrated UHD 620",
+    "usb": "1 x USB 3.1 Type C, 2 x USB 3.1",
+    "dimension": "307 x 212 x 15 mm",
+    "weight": "1.21 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/8/k/y/hp-na-thin-and-light-laptop-original-imaf9hu5gdz6qxxq.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/8/k/y/hp-na-thin-and-light-laptop-original-imaf9hu54vegmefq.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/8/k/y/hp-na-thin-and-light-laptop-original-imaf9hu5jzkexvry.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "022",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "Lenovo",
+    "name": "Lenovo Ideapad 330-15IKB",
+    "price": "48990",
+    "ram": "8GB",
+    "storage": "1TB HDD",
+    "processor": "i5",
+    "os": "Windows 10",
+    "display": "15.6 inch 1366*768 Backlit Anti-glare",
+    "soc": "1.6GHz Quad Core i5 8th Gen",
+    "gpu": "Intel Integrated UHD 620",
+    "usb": "1 x USB 3.0 Type C, 2 x USB 3.0",
+    "dimension": "378 x 260 x 22.9 mm",
+    "weight": "2.2 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/d/e/x/lenovo-na-laptop-original-imaf9hu7hyuktyaw.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/d/e/x/lenovo-na-laptop-original-imaf9hu7turth3e4.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/d/e/x/lenovo-na-laptop-original-imaf9hu7hmhprayx.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "023",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "Lenovo",
+    "name": "Lenovo Ideapad 320E-14ISK",
+    "price": "27490",
+    "ram": "4GB",
+    "storage": "1TB HDD",
+    "processor": "i3",
+    "os": "DOS",
+    "display": "14 inch 1366*768 Backlit Anti-glare",
+    "soc": "2GHz Dual Core i3 6th Gen",
+    "gpu": "Intel Integrated HD 520",
+    "usb": "2 x USB 3.0, 1 x USB 3.0 Type C",
+    "dimension": "338 x 249 x 22.7 mm",
+    "weight": "2.1 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/r/f/g/lenovo-na-laptop-original-imaf9ry4ucyqtwrs.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/r/f/g/lenovo-na-laptop-original-imaf9hu7mxwgfphj.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/r/f/g/lenovo-na-laptop-original-imaf9hu75xfkmhmy.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "024",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "Apple",
+    "name": "Apple MacBook Air",
+    "price": "62990",
+    "ram": "8GB",
+    "storage": "128 GB SSD",
+    "processor": "i5",
+    "os": "Mac OS Sierra",
+    "display": "13.3 inch 1440 x 900 Pixel HD+ LED",
+    "soc": "1.8GHz Core i5 5th Gen",
+    "gpu": "Intel Integrated HD 6000",
+    "usb": "2 x USB 3.0, 2 x Thunderbolt 2.0",
+    "dimension": "325 x 227 x 17 mm",
+    "weight": "1.35 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/j/8/c/apple-na-thin-and-light-laptop-original-imaf9ph3tusztfbc.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/j/8/c/apple-na-thin-and-light-laptop-original-imaf9ph3ydpqpxgu.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/j/8/c/apple-na-thin-and-light-laptop-original-imaf9ph3jyguwmnx.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "025",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "Apple",
+    "name": "Apple MacBook Pro",
+    "price": "119990",
+    "ram": "8GB",
+    "storage": "256 GB SSD",
+    "processor": "i5",
+    "os": "Mac OS Sierra",
+    "display": "13.3 inch 2560 x 1600 pixel WQHD LED",
+    "soc": "2.3GHz Core i5 7th Gen",
+    "gpu": "Intel Integrated Iris Plus 640",
+    "usb": "2 x Thunderbolt 3.0 (USB Type-C)",
+    "dimension": "304.1 x 212.4 x 14.9 mm",
+    "weight": "1.37 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jn4x47k0/computer/6/a/w/apple-na-thin-and-light-laptop-original-imaf9wbewtfj2ezg.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jn4x47k0/computer/6/a/w/apple-na-thin-and-light-laptop-original-imaf9wbeg6eabwgv.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "026",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "Asus",
+    "name": "Asus F541UA-XO2230T",
+    "price": "26490",
+    "ram": "4GB",
+    "storage": "1TB HDD",
+    "processor": "i3",
+    "os": "Windows 10",
+    "display": "15.6 inch 1366*768 HD LED Backlit Anti-glare",
+    "soc": "2.3GHz Core i3 6th Gen",
+    "gpu": "Intel Integrated HD 520",
+    "usb": "1 x USB 2.0, 1 x USB 3.0, 1 x USB 3.1 Type C",
+    "dimension": "381 x 252 x 27.6 mm",
+    "weight": "2 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/u/8/s/asus-na-laptop-original-imaf9hu6htfbstgy.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/u/8/s/asus-na-laptop-original-imaf9hu6rdnbyskh.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/u/8/s/asus-na-laptop-original-imaf9hu6pybzyfhn.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "027",
+    "category": "electronics",
+    "sub_category": "Laptop",
+    "brand": "Asus",
+    "name": "Asus S410UA-EB797T",
+    "price": "52990",
+    "ram": "8GB",
+    "storage": "1TB HDD",
+    "processor": "i3",
+    "os": "Windows 10",
+    "display": "14 inch 1920*1080 Full HD LED Backlit Wideview IPS",
+    "soc": "2.3GHz Dual Core i3 8th Gen",
+    "gpu": "Intel Integrated UHD 520",
+    "usb": "2 x USB 2.0, 1 x USB 3.0, 1 x USB 3.1 Type C",
+    "dimension": "326 x 226 x 18.8 mm",
+    "weight": "1.3 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/n/n/b/asus-na-laptop-original-imaf9zyzny6qdhfq.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/n/n/b/asus-na-laptop-original-imaf9zyzphntgf8p.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/n/n/b/asus-na-laptop-original-imaf9zyzzephnsmz.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "028",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Xiaomi",
+    "name": "Redmi 6",
+    "price": "7999",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jm2c87k0/mobile/a/u/t/mi-redmi-6-na-original-imaf92dn4sfharjg.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jm2c87k0/mobile/a/u/t/mi-redmi-6-na-original-imaf92dntbhptazy.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jm2c87k0/mobile/a/u/t/mi-redmi-6-na-original-imaf92dnhjgxnkgh.jpeg?q=70"
+    ],
+    "ram": "3GB",
+    "storage": "32GB",
+    "rear_camera": "12MP + 5MP",
+    "front_camera": "5MP",
+    "display": "13.84 cm (5.45 inch) HD+ Display",
+    "battery": "3000 mAh Li Polymer Battery",
+    "soc": "2.0 GHz Mediatek P22 Octacore Processor"
+  },
+  {
+    "id": "029",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Xiaomi",
+    "name": "Redmi 5A",
+    "price": "5999",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jefzonk0/mobile/k/w/g/mi-redmi-5a-mci3b-original-imaf34ccfrfsrhrr.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jefzonk0/mobile/k/w/g/mi-redmi-5a-mci3b-original-imaf34cdvcmvhh9h.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jefzonk0/mobile/k/w/g/mi-redmi-5a-mci3b-original-imaf34cd6uypaxag.jpeg?q=70"
+    ],
+    "ram": "2GB",
+    "storage": "16GB",
+    "rear_camera": "13MP",
+    "front_camera": "5MP",
+    "display": "12.7 cm (5 inch) HD Display",
+    "battery": "3000 mAh Li Polymer Battery",
+    "soc": "Qualcomm Snapdragon 425 Processor"
+  },
+  {
+    "id": "030",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Xiaomi",
+    "name": "Mi Mix 2",
+    "price": "29999",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j8bxvgw0-1/mobile/g/j/z/mi-mi-mix-2-na-original-imaeydgnjzmvxwfz.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j8bxvgw0-1/mobile/g/j/z/mi-mi-mix-2-na-original-imaeydhfhhxw7q4z.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j8bxvgw0-1/mobile/g/j/z/mi-mi-mix-2-na-original-imaeydhfgtnyknxa.jpeg?q=70"
+    ],
+    "ram": "6GB",
+    "storage": "128GB",
+    "rear_camera": "12MP",
+    "front_camera": "5MP",
+    "display": "15.21 cm (5.99 inch) Full HD+ Display",
+    "battery": "3400 mAh Li Polymer Battery",
+    "soc": "Qualcomm Snapdragon 835 Octa-core 2.5GHz Processor"
+  },
+  {
+    "id": "031",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Xiaomi",
+    "name": "Redmi Y2",
+    "price": "12479",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jkmwdjk0/mobile/c/m/c/mi-redmi-y2-y2-original-imaf7wnynyfjueps.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jkmwdjk0/mobile/c/m/c/mi-redmi-y2-y2-original-imaf7wnywkj3zgrz.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jkmwdjk0/mobile/c/m/c/mi-redmi-y2-y2-original-imaf7xvcf6myhmrh.jpeg?q=70"
+    ],
+    "ram": "4GB",
+    "storage": "64GB",
+    "rear_camera": "12MP",
+    "front_camera": "16MP",
+    "display": "15.21 cm (5.99 inch) HD Display",
+    "battery": "3080 mAh Li-ion Battery",
+    "soc": "1.3GHz Octa core Processor"
+  },
+  {
+    "id": "032",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Xiaomi",
+    "name": "Mi A2",
+    "price": "16799",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmf76vk0/mobile/z/d/w/mi-a2-na-original-imaf9c7jhzrvhhy8.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmf76vk0/mobile/z/d/w/mi-a2-na-original-imaf9c7jtkhv96nj.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmf76vk0/mobile/z/d/w/mi-a2-na-original-imaf9c7jgmgz4gjg.jpeg?q=70"
+    ],
+    "ram": "4GB",
+    "storage": "64GB",
+    "rear_camera": "20MP + 12MP",
+    "front_camera": "20MP",
+    "display": "15.21 cm (5.99 inch) Full HD Display",
+    "battery": "3010 mAh Li-ion Battery",
+    "soc": "Qualcomm Snapdragon 660 Octacore Processor"
+  },
+  {
+    "id": "082",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy On Max",
+    "price": "12490",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j4sronk0/mobile/3/z/h/samsung-on-max-sm-g615fzduins-original-imaevmfxe8xpzsw6.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j4sronk0/mobile/3/z/h/samsung-on-max-sm-g615fzduins-original-imaevmfxfpxpfyce.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j4sronk0/mobile/3/z/h/samsung-on-max-sm-g615fzduins-original-imaevmfx2yhyshrm.jpeg?q=70"
+    ],
+    "ram": "4GB",
+    "storage": "32GB",
+    "rear_camera": "13MP",
+    "front_camera": "13MP",
+    "display": "14.48 cm (5.7 inch) Full HD Display",
+    "battery": "3300 mAh Li-ion Battery",
+    "soc": "MediaTek MTK6757V/WL 2.39GHz, 1.69GHz, Octa Core"
+  },
+  {
+    "id": "083",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy On 5",
+    "price": "6990",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/mobile/r/3/q/samsung-galaxy-on7-sm-g600f-original-imaecqkgzeuz9ebn.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/mobile/3/k/a/samsung-galaxy-on5-sm-g550fzddins-original-imaecjy9jkpzuxvn.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/mobile/3/k/a/samsung-galaxy-on5-sm-g550fzddins-original-imaecjy9gazuhfkv.jpeg?q=70"
+    ],
+    "ram": "1.5GB",
+    "storage": "8GB",
+    "rear_camera": "8MP",
+    "front_camera": "5MP",
+    "display": "12.7 cm (5 inch) HD Display",
+    "battery": "2600 mAh Li-ion Battery",
+    "soc": "Exynos 3475 Quad Core 1.3GHz"
+  },
+  {
+    "id": "033",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy J2 Pro",
+    "price": "8500",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j0vb3bk0/mobile/h/q/v/samsung-galaxy-j2-pro-sm-j210fzsgins-original-imaesjzp5gbz3tj9.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j0vb3bk0/mobile/h/q/v/samsung-galaxy-j2-pro-sm-j210fzsgins-original-imaesjzp86fjdksr.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j0vb3bk0/mobile/h/q/v/samsung-galaxy-j2-pro-sm-j210fzsgins-original-imaesjzqkvzwztf7.jpeg?q=70"
+    ],
+    "ram": "2GB",
+    "storage": "16GB",
+    "rear_camera": "8MP",
+    "front_camera": "5MP",
+    "display": "12.7 cm (5 inch) HD Display",
+    "battery": "2600 mAh Li-ion Battery",
+    "soc": "Spreadtrum Quad-Core 1.5GHz"
+  },
+  {
+    "id": "034",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy J7 Duo",
+    "price": "15399",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jfwuz680/mobile/h/m/f/samsung-j7-duo-sm-j720f-original-imaf49ufgp38p4gh.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jfwuz680/mobile/h/m/f/samsung-j7-duo-sm-j720f-original-imaf49ufupz42wa4.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jfwuz680/mobile/h/m/f/samsung-j7-duo-sm-j720f-original-imaf49ufcsnghaw9.jpeg?q=70"
+    ],
+    "ram": "4GB",
+    "storage": "32GB",
+    "rear_camera": "13MP + 5MP",
+    "front_camera": "8MP",
+    "display": "13.97 cm (5.5 inch) HD Display",
+    "battery": "3000 mAh Li-ion Battery",
+    "soc": "Exynos 7884"
+  },
+  {
+    "id": "035",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy J8",
+    "price": "17990",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jjelq4w0/mobile/v/s/j/samsung-galaxy-j8-sm-j810gzdgins-original-imaf6zg5dxmpgmqg.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jiw10280/mobile/v/s/j/samsung-galaxy-j8-sm-j810g-original-imaf6ky9wshk2hgz.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jjelq4w0/mobile/v/s/j/samsung-galaxy-j8-sm-j810gzdgins-original-imaf6zg6nyhuksse.jpeg?q=70"
+    ],
+    "ram": "4GB",
+    "storage": "64GB",
+    "rear_camera": "16MP + 5MP",
+    "front_camera": "16MP",
+    "display": "15.24 cm (6 inch) HD Display",
+    "battery": "3500 mAh Li-ion Battery",
+    "soc": "Qualcomm Snapdragon SDM450"
+  },
+  {
+    "id": "036",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Apple",
+    "name": "Apple iPhone 6S",
+    "price": "32999",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j7qi9ow0/mobile/6/t/q/apple-iphone-6s-mn0w2hn-a-original-imaexw6smfzjgqsz.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j7qi9ow0/mobile/6/t/q/apple-iphone-6s-mn0w2hn-a-original-imaexw6shyqbz5ub.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j7qi9ow0/mobile/6/t/q/apple-iphone-6s-mn0w2hn-a-original-imaexw6svn7pgfg9.jpeg?q=70"
+    ],
+    "ram": "3GB",
+    "storage": "32GB",
+    "rear_camera": "12MP",
+    "front_camera": "5MP",
+    "display": "11.94 cm (4.7 inch) Retina HD Display",
+    "battery": "1715 mAh Li-ion Battery",
+    "soc": "Apple A9 64-bit processor"
+  },
+  {
+    "id": "037",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Apple",
+    "name": "Apple iPhone 7",
+    "price": "46999",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/mobile/7/e/e/apple-iphone-7-na-original-imaemzee435f9gpu.jpeg?q=70"
+    ],
+    "ram": "3GB",
+    "storage": "32GB",
+    "rear_camera": "12MP",
+    "front_camera": "7MP",
+    "display": "11.94 cm (4.7 inch) Retina HD Display",
+    "battery": "2030 mAh Li-ion Battery",
+    "soc": "Apple A10 Fusion 64-bit processor"
+  },
+  {
+    "id": "038",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Apple",
+    "name": "Apple iPhone X",
+    "price": "90999",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j9d3bm80/mobile/k/x/a/apple-iphone-x-mqa82hn-a-original-imaeyysgmypxmazk.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j9d3bm80/mobile/k/x/a/apple-iphone-x-mqa82hn-a-original-imaeyzyf8dyfgaaq.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j9d3bm80/mobile/k/x/a/apple-iphone-x-mqa82hn-a-original-imaeyzzw2zrxkwug.jpeg?q=70"
+    ],
+    "ram": "4GB",
+    "storage": "64GB",
+    "rear_camera": "12MP + 12MP",
+    "front_camera": "7MP",
+    "display": "14.73 cm (5.8 inch) Super Retina HD Display",
+    "battery": "2580 mAh Li-ion Battery",
+    "soc": "A11 Bionic Chip with 64-bit Architecture"
+  },
+  {
+    "id": "039",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Lenovo",
+    "name": "Lenovo K8 Note",
+    "price": "10820",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/ja9yg7k0/mobile/k/r/h/lenovo-k8-note-xt1902-original-imaez9xxp6zfrjzg.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/ja9yg7k0/mobile/k/r/h/lenovo-k8-note-xt1902-original-imaez9xxrsg39age.jpeg?q=70"
+    ],
+    "ram": "4GB",
+    "storage": "64GB",
+    "rear_camera": "13MP + 5MP",
+    "front_camera": "5MP",
+    "display": "13.97 cm (5.5 inch) Full HD Display",
+    "battery": "4000 mAh Li-ion Battery",
+    "soc": "Helio X23 Deca-core 2.3GHz 64-bit processor"
+  },
+  {
+    "id": "040",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Lenovo",
+    "name": "Lenovo K6 Note",
+    "price": "13773",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j0zlevk0/mobile/x/z/m/lenovo-k6-note-k6-note-3gb-original-imaes7d48fkh8tbf.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j3vwk280/mobile/x/z/m/lenovo-k6-note-k6-note-3gb-original-imaeux2qqdwcfzmf.jpeg?q=70"
+    ],
+    "ram": "3GB",
+    "storage": "32GB",
+    "rear_camera": "16MP",
+    "front_camera": "8MP",
+    "display": "13.97 cm (5.5 inch) Full HD Display",
+    "battery": "4000 mAh Li-ion Battery",
+    "soc": "Octa Core 1.4GHz"
+  },
+  {
+    "id": "041",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Lenovo",
+    "name": "Lenovo A850",
+    "price": "15500",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/mobile/7/t/3/lenovo-a850-original-imadpxnuzdm9cnhs.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/mobile/7/t/3/lenovo-a850-original-imadpxnuhyexxxjw.jpeg?q=70"
+    ],
+    "ram": "3GB",
+    "storage": "32GB",
+    "rear_camera": "16MP",
+    "front_camera": "8MP",
+    "display": "13.97 cm (5.5 inch) Full HD Display",
+    "battery": "3800 mAh Li-ion Battery",
+    "soc": "MTK 6582M"
+  },
+  {
+    "id": "042",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Motorola",
+    "name": "Moto X4 Play",
+    "price": "15500",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j9u8lu80/mobile/q/v/h/motorola-moto-x4-pa8t0002in-original-imaezk6g4pazpe4r.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j9u8lu80/mobile/q/v/h/motorola-moto-x4-pa8t0002in-original-imaezk6ggtvuyhfy.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j9u8lu80/mobile/q/v/h/motorola-moto-x4-pa8t0002in-original-imaezk6ff7gnn5hh.jpeg?q=70"
+    ],
+    "ram": "4GB",
+    "storage": "64GB",
+    "rear_camera": "12MP + 8MP",
+    "front_camera": "16MP",
+    "display": "13.21 cm (5.2 inch) Full HD Display",
+    "battery": "3000 mAh Li-ion Battery",
+    "soc": "Qualcomm Snapdragon 630"
+  },
+  {
+    "id": "043",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Motorola",
+    "name": "Moto Z2 Play",
+    "price": "18999",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j3lwh3k0/mobile/z/g/e/motorola-moto-z2-play-xt1710-10-original-imaeup4v8qyskzar.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j3nbwy80/mobile/z/g/e/motorola-moto-z2-play-xt1710-10-original-imaeuqzhxa2bmfuw.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j3lwh3k0/mobile/z/g/e/motorola-moto-z2-play-xt1710-10-original-imaeup4ugmwmw4t6.jpeg?q=70"
+    ],
+    "ram": "4GB",
+    "storage": "64GB",
+    "rear_camera": "12MP",
+    "front_camera": "5MP",
+    "display": "13.97 cm (5.5 inch) Full HD Display",
+    "battery": "3000 mAh Li-ion Battery",
+    "soc": "Qualcomm Snapdragon 626 Octacore 2.2GHz"
+  },
+  {
+    "id": "044",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Motorola",
+    "name": "Moto E5 Plus",
+    "price": "11999",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jjhglu80/mobile/g/y/h/motorola-e5-plus-e5-plus-original-imaf7ys4hux8fcrr.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jjhglu80/mobile/g/y/h/motorola-e5-plus-e5-plus-original-imaf7ys4cecqh6t7.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jjhglu80/mobile/g/y/h/motorola-e5-plus-e5-plus-original-imaf7ys5anqqfeuf.jpeg?q=70"
+    ],
+    "ram": "3GB",
+    "storage": "32GB",
+    "rear_camera": "12MP",
+    "front_camera": "5MP",
+    "display": "15.24 cm (6 inch) Full HD Display",
+    "battery": "5000 mAh Li-ion Battery",
+    "soc": "Qualcomm Snapdragon 430"
+  },
+  {
+    "id": "045",
+    "category": "electronics",
+    "sub_category": "Mobile",
+    "brand": "Motorola",
+    "name": "Moto G6",
+    "price": "15999",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jlwmgsw0/mobile/t/w/a/motorola-moto-g6-xt-1925-13-original-imaf8xu2ftcmpwjf.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jlwmgsw0/mobile/t/w/a/motorola-moto-g6-xt-1925-13-original-imaf8xu2ztrbgqfx.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jlwmgsw0/mobile/t/w/a/motorola-moto-g6-xt-1925-13-original-imaf8xubzwm5fpp3.jpeg?q=70"
+    ],
+    "ram": "4GB",
+    "storage": "64GB",
+    "rear_camera": "12MP + 5MP",
+    "front_camera": "16MP",
+    "display": "14.48 cm (5.7 inch) Full HD Display",
+    "battery": "3000 mAh Li-ion Battery",
+    "soc": "Qualcomm Snapdragon 620 Octacore 1.8GHz"
+  },
+  {
+    "id": "046",
+    "category": "electronics",
+    "sub_category": "Camera",
+    "brand": "Canon",
+    "name": "Canon EOS 1300D DSLR",
+    "price": "25490",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/camera/j/s/u/canon-eos-1300d-dslr-original-imaeh33eyhy9gcgm.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/camera/j/s/u/canon-eos-1300d-dslr-original-imaeh33ezbpmezeu.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/camera/j/s/u/canon-eos-1300d-dslr-original-imaeh33e9ytzjrzu.jpeg?q=70"
+    ],
+    "type": "DSLR",
+    "pixel": "18MP",
+    "shutter_speed": "1/4000 sec",
+    "video": "5184 x 3456"
+  },
+  {
+    "id": "047",
+    "category": "electronics",
+    "sub_category": "Camera",
+    "brand": "Canon",
+    "name": "Canon EOS 3000D DSLR",
+    "price": "24990",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jfbfde80/camera/n/r/n/canon-eos-3000d-original-imaf3t5hjrz6zzzc.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmthle80-1/dslr-camera/n/r/n/eos-eos-3000d-canon-original-imaf9n6fqhmgt4cv.jpeg?q=70"
+    ],
+    "type": "DSLR",
+    "pixel": "18MP",
+    "shutter_speed": "1/4000 sec",
+    "video": "1920 x 1080"
+  },
+  {
+    "id": "048",
+    "category": "electronics",
+    "sub_category": "Camera",
+    "brand": "Canon",
+    "name": "Canon EOS 200D DSLR",
+    "price": "39990",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j9yixe80/dslr-camera/t/m/d/eos-200d-eos-200d-canon-original-imaezhnkrgvstcpt.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j9yixe80/dslr-camera/t/m/d/eos-200d-eos-200d-canon-original-imaezhnkchbuhdqk.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j9yixe80/dslr-camera/t/m/d/eos-200d-eos-200d-canon-original-imaezhnkwn7mzxxz.jpeg?q=70"
+    ],
+    "type": "DSLR",
+    "pixel": "24.2MP",
+    "shutter_speed": "1/4000 sec",
+    "video": "6000 x 4000"
+  },
+  {
+    "id": "049",
+    "category": "electronics",
+    "sub_category": "Camera",
+    "brand": "Nikon",
+    "name": "Nikon D3400 DSLR",
+    "price": "38990",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/dslr-camera/3/d/h/digital-camera-d3400-kit-with-lens-af-p-dx-nikkor-18-55-mm-f-3-5-original-imaemk39hqwhhhwj.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jgwkzgw0/dslr-camera/3/d/h/digital-camera-d3400-d3400-nikon-original-imaf5fheuzysfchr.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jgwkzgw0/dslr-camera/3/d/h/digital-camera-d3400-d3400-nikon-original-imaf5fherxqzgknk.jpeg?q=70"
+    ],
+    "type": "DSLR",
+    "pixel": "24.2MP",
+    "shutter_speed": "1/4000 sec",
+    "video": "1920 x 1080"
+  },
+  {
+    "id": "050",
+    "category": "electronics",
+    "sub_category": "Camera",
+    "brand": "Nikon",
+    "name": "Nikon D5600 DSLR",
+    "price": "53990",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/dslr-camera/t/h/g/d5600-nikon-d5600-original-imaezvbrhkgzyywz.jpeg?q=70"
+    ],
+    "type": "DSLR",
+    "pixel": "24.2MP",
+    "shutter_speed": "1/4000-30 sec",
+    "video": "1920 x 1080"
+  },
+  {
+    "id": "051",
+    "category": "fashion",
+    "sub_category": "Men",
+    "type": "Shirt",
+    "brand": "Peter England",
+    "name": "Peter England Men Solid Formal",
+    "price": "1519",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmmce4w0/shirt/r/8/r/39-psf318009651-peter-england-original-imaf9h2z7rzkmme9.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmmce4w0/shirt/r/8/r/39-psf318009651-peter-england-original-imaf9h3a5ysg3sp7.jpeg?q=70"
+    ],
+    "color": "maroon",
+    "feature": "Full sleeve cotton polyester formal",
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "052",
+    "category": "fashion",
+    "sub_category": "Men",
+    "type": "Shirt",
+    "brand": "Dennis",
+    "name": "Dennis Lingo Men's Solid Casual",
+    "price": "549",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jklgxow0/shirt/v/n/2/xl-c301-tblue-dennis-lingo-original-imaf7wvpzyqfycmh.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jklgxow0/shirt/v/n/2/xl-c301-tblue-dennis-lingo-original-imaf7wvp9nyqsjvr.jpeg?q=70"
+    ],
+    "color": "blue",
+    "feature": "Full sleeve cotton casual",
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "053",
+    "category": "fashion",
+    "sub_category": "Men",
+    "type": "Shirt",
+    "brand": "Anfold",
+    "name": "5TH ANFOLD Men Solid Casual",
+    "price": "587",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jf9zxjk0/shirt/4/5/f/xs-499-blk-5th-anfold-original-imaeujp7q8puymwu.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jf9zxjk0/shirt/4/5/f/xs-499-blk-5th-anfold-original-imaeujp7ggkbfqr9.jpeg?q=70"
+    ],
+    "color": "black",
+    "feature": "Full sleeve cotton formal",
+    "size": ["S", "M", "L", "XL", "XXL", "3XL"]
+  },
+  {
+    "id": "054",
+    "category": "fashion",
+    "sub_category": "Men",
+    "type": "Shirt",
+    "brand": "US Polo",
+    "name": "U.S. Polo Assn Men's Solid Casual",
+    "price": "809",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/shirt/b/z/t/xl-ussh5686-u-s-polo-assn-original-imaf9rkurpmpuvrh.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/shirt/b/z/t/xl-ussh5686-u-s-polo-assn-original-imaf9rkupyhhhvep.jpeg?q=70"
+    ],
+    "color": "red",
+    "feature": "Full sleeve cotton formal",
+    "size": ["XL", "XXL", "3XL"]
+  },
+  {
+    "id": "055",
+    "category": "fashion",
+    "sub_category": "Men",
+    "type": "Shirt",
+    "brand": "CMS",
+    "name": "CMS CLOTHINGS Men Solid Casual",
+    "price": "521",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmnrtzk0-2/shirt/y/k/m/l-cms-15-cms-clothings-original-imaf9hyzcmynpqya.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmnrtzk0-1/shirt/y/k/m/xxl-cms-15-cms-clothings-original-imaf98yvnsyazcps.jpeg?q=70"
+    ],
+    "color": "blue",
+    "feature": "Full sleeve cotton casual",
+    "size": ["M", "L", "XL", "XXL", "3XL"]
+  },
+  {
+    "id": "056",
+    "category": "fashion",
+    "sub_category": "Men",
+    "type": "T-Shirt",
+    "brand": "Levis",
+    "name": "Levi's Printed Men Polo Neck",
+    "price": "1132",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jh6l2fk0/t-shirt/f/c/a/m-17474-0087red-levi-s-original-imaf594ar6j8xrhg.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jh6l2fk0/t-shirt/f/c/a/m-17474-0087red-levi-s-original-imaf594ygguzhpg7.jpeg?q=70"
+    ],
+    "color": "red",
+    "feature": "Half sleeve cotton polo neck",
+    "size": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": "057",
+    "category": "fashion",
+    "sub_category": "Men",
+    "brand": "Levis",
+    "type": "T-Shirt",
+    "name": "Levi's Solid Men's V-neck",
+    "price": "628",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jh9fy4w0/t-shirt/f/5/g/m-17076-0035blue-levi-s-original-imaf5bapdyfsn8fe.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jh9fy4w0/t-shirt/f/5/g/m-17076-0035blue-levi-s-original-imaf5ba4u5ydhfur.jpeg?q=70"
+    ],
+    "color": "blue",
+    "feature": "Half sleeve cotton v neck",
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "058",
+    "category": "fashion",
+    "sub_category": "Men",
+    "type": "T-Shirt",
+    "brand": "US Polo",
+    "name": "U.S. Polo Assn Solid Men's Polo Neck",
+    "price": "719",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmthle80-1/t-shirt/z/f/h/s-usts5942-u-s-polo-assn-original-imaf9n7cduhkuwuc.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmthle80-1/t-shirt/z/f/h/s-usts5942-u-s-polo-assn-original-imaf9n7cmgfnvfzt.jpeg?q=70"
+    ],
+    "color": "red",
+    "feature": "Half sleeve cotton polo neck",
+    "size": ["M", "L", "XL"]
+  },
+  {
+    "id": "059",
+    "category": "fashion",
+    "sub_category": "Men",
+    "type": "T-Shirt",
+    "brand": "US Polo",
+    "name": "U.S. Polo Assn Solid Men Polo Neck",
+    "price": "1334",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jgqv8280/t-shirt/z/g/x/m-usts5785blue-u-s-polo-assn-original-imaf4qejxgch2fap.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jgqv8280/t-shirt/z/g/x/m-usts5785blue-u-s-polo-assn-original-imaf4qejbjhfqzqd.jpeg?q=70"
+    ],
+    "color": "blue",
+    "feature": "Half sleeve cotton polo neck",
+    "size": ["S", "M", "L", "XL", "XL"]
+  },
+  {
+    "id": "060",
+    "category": "fashion",
+    "sub_category": "Men",
+    "type": "T-Shirt",
+    "brand": "Maniac",
+    "name": "Maniac Solid Men's Round Neck",
+    "price": "1334",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jefzonk0/t-shirt/y/a/j/xl-ml-mens-ss17-fs-rnck-tucks-black-maniac-original-imaf34h2jucuguyn.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jefzonk0/t-shirt/y/a/j/xl-ml-mens-ss17-fs-rnck-tucks-black-maniac-original-imaezrwyfdc7qyzz.jpeg?q=70"
+    ],
+    "color": "black",
+    "feature": "Full sleeve cotton round neck",
+    "size": ["S", "M", "L", "XL", "XL"]
+  },
+  {
+    "id": "061",
+    "category": "fashion",
+    "sub_category": "Men",
+    "type": "T-Shirt",
+    "brand": "Maniac",
+    "name": "Maniac Checkered Men's Round Neck",
+    "price": "424",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jjabekw0/t-shirt/3/b/n/m-men-aw18-fs-raglan-olive-black-chkd-maniac-original-imaf6whmsdg7hgqe.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jjabekw0/t-shirt/3/b/n/m-men-aw18-fs-raglan-olive-black-chkd-maniac-original-imaf6wm5nxvmzfgg.jpeg?q=70"
+    ],
+    "color": "green",
+    "feature": "Full sleeve cotton round neck",
+    "size": ["S", "M", "L", "XL", "XL"]
+  },
+  {
+    "id": "062",
+    "category": "fashion",
+    "sub_category": "Women",
+    "type": "Saree",
+    "brand": "Bolly",
+    "name": "Bolly Lounge Embroidered Fashion Velvet Saree",
+    "price": "499",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/sari/g/h/v/1-1-blbluvel-5220-g-stuff-fashion-free-original-imaepjxabwkujx46.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/sari/g/h/v/1-1-blbluvel-5220-g-stuff-fashion-free-original-imaepjxahhrbgzj5.jpeg?q=70"
+    ],
+    "color": "blue",
+    "feature": "Embroidered saree"
+  },
+  {
+    "id": "063",
+    "category": "fashion",
+    "sub_category": "Women",
+    "type": "Saree",
+    "brand": "Anand",
+    "name": "Anand Sarees Printed Daily Wear Georgette Saree",
+    "price": "599",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/sari/z/3/4/1-1-trio-1134-1-2942-1-1086-3-kashvi-sarees-free-original-imaemrvngjg93wgs.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/sari/b/r/w/1-1-1134-1-anand-sarees-free-original-imaemrvnydffgvd2.jpeg?q=70"
+    ],
+    "color": "black",
+    "feature": "Georgette saree"
+  },
+  {
+    "id": "064",
+    "category": "fashion",
+    "sub_category": "Women",
+    "type": "Saree",
+    "brand": "Kara",
+    "name": "Kara Printed Daily Wear Cotton Saree",
+    "price": "749",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jc299jk0/sari/g/2/n/free-kr-bgp-gola-royal-blue-kara-original-imaff9ccuzj3hupf.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jc299jk0/sari/g/2/n/free-kr-bgp-gola-royal-blue-kara-original-imaff9cb9yxa5gc3.jpeg?q=70"
+    ],
+    "color": "blue",
+    "feature": "Cotton-Linen blend saree"
+  },
+  {
+    "id": "065",
+    "category": "fashion",
+    "sub_category": "Women",
+    "type": "Casual Top",
+    "brand": "Anand",
+    "name": "Rare Casual 3/4th Sleeve Solid Women's Pink Top",
+    "price": "517",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/top/y/f/h/m-ep1602-pink-rare-original-imaeqct5fbzghe4q.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/top/y/f/h/l-ep1602-pink-rare-original-imaeqct5upcukpcm.jpeg?q=70"
+    ],
+    "color": "pink",
+    "feature": "Georgette 3/4th sleeve Mandarin collar"
+  },
+  {
+    "id": "066",
+    "category": "fashion",
+    "sub_category": "Women",
+    "type": "Casual Top",
+    "brand": "Kara",
+    "name": "Krapal Party 3/4th Sleeve Printed Women's Black Top",
+    "price": "292",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j73n8280/top/y/v/t/xs-2603cottonblacktop-krapal-original-imaexfczxgsj4umb.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j73n8280/top/u/c/3/xxl-2603cottonblacktop-krapal-original-imaexfcztfnjchsu.jpeg?q=70"
+    ],
+    "color": "black",
+    "feature": "Cotton 3/4th sleeve Mandarin collar"
+  },
+  {
+    "id": "067",
+    "category": "fashion",
+    "sub_category": "Women",
+    "type": "Casual Top",
+    "brand": "Senhzim",
+    "name": "Rare Casual Half Sleeve, Cold Shoulder Embroidered Women's Black Top",
+    "price": "549",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j9it30w0/top/k/9/a/l-ep2119a-rare-original-imaez9zehvsemwk9.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j9it30w0/top/k/9/a/xl-ep2119a-rare-original-imaez9zewkckthzp.jpeg?q=70"
+    ],
+    "color": "black",
+    "feature": "Ployester Embroidered round neck"
+  },
+  {
+    "id": "068",
+    "category": "fashion",
+    "sub_category": "Women",
+    "type": "Casual Top",
+    "brand": "Anand",
+    "name": "Oomph! Casual Butterfly Sleeve Solid Women's Pink Top",
+    "price": "299",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmux18w0/top/e/w/q/xxl-mt44-oomph-original-imaf9nh4fz9beuf9.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmux18w0/top/e/w/q/xxl-mt44-oomph-original-imaf9nh4egggpszk.jpeg?q=70"
+    ],
+    "color": "pink",
+    "feature": "Cotton Butterfly sleeve crepe"
+  },
+  {
+    "id": "069",
+    "category": "others",
+    "sub_category": "Watch",
+    "type": "Men",
+    "brand": "Titan",
+    "name": "Titan 1771SM03 Neo Watch",
+    "price": "2165",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jgqv8280/watch/j/c/z/1771sm03-titan-original-imaf4wn8vvkhh6wb.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jgqv8280/watch/j/c/z/1771sm03-titan-original-imaf4wn89xgzparp.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "070",
+    "category": "others",
+    "sub_category": "Watch",
+    "type": "Men",
+    "brand": "Titan",
+    "name": "Titan 1730SL02 Watch",
+    "price": "2390",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j9k8ivk0/watch/d/a/n/1730sl02-titan-original-imaezbuhkdkagbde.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/watch/d/a/n/1730sl02-titan-original-imaeprdgptgnnmdv.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "071",
+    "category": "others",
+    "sub_category": "Watch",
+    "type": "Men",
+    "brand": "Titan",
+    "name": "Titan NF1648YM02C Karishma Watch",
+    "price": "2165",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/watch/k/p/m/nf1648ym02-titan-original-imae8dtnwpwr4ctb.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "072",
+    "category": "others",
+    "sub_category": "Watch",
+    "type": "Men",
+    "brand": "Titan",
+    "name": "Titan NH1639SM03 Watch",
+    "price": "1835",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/watch/k/e/6/1639sm03-titan-original-imaedbtj5gegwxdg.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/watch/k/e/6/1639sm03-titan-original-imaedbtjgmrxy8mp.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "073",
+    "category": "others",
+    "sub_category": "Watch",
+    "type": "Men",
+    "brand": "Titan",
+    "name": "Titan 9151sm02 Watch",
+    "price": "1835",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jhjg13k0/watch/a/g/g/9151sm02-titan-original-imaf5jh43jybqdzh.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jhjg13k0/watch/a/g/g/9151sm02-titan-original-imaf5jh4usg8hgqz.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "074",
+    "category": "others",
+    "sub_category": "Watch",
+    "type": "Men",
+    "brand": "FastTrack",
+    "name": "Fastrack 38045PP03 Trendies Watch",
+    "price": "1860",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jerf7gw0/watch/g/e/8/38045pp03-fastrack-original-imaf3dgq7h5zzhp8.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jerf7gw0/watch/g/e/8/38045pp03-fastrack-original-imaf3dgqthxcpspx.jpeg?q=70"
+    ],
+    "Screen": "Digital"
+  },
+  {
+    "id": "075",
+    "category": "others",
+    "sub_category": "Watch",
+    "type": "Men",
+    "brand": "FastTrack",
+    "name": "Fastrack 38035SL03 Watch",
+    "price": "3820",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jfvfjbk0/watch/q/g/p/38035sl03-fastrack-original-imaf48zrk3qh6rmr.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jfvfjbk0/watch/q/g/p/38035sl03-fastrack-original-imaf48zgp48sg9gn.jpeg?q=70"
+    ],
+    "Screen": "Digital"
+  },
+  {
+    "id": "076",
+    "category": "others",
+    "sub_category": "Watch",
+    "type": "Men",
+    "brand": "FastTrack",
+    "name": "Fastrack 38044PP03 Trendies Watch",
+    "price": "1740",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmxrwy80/watch/c/x/x/38044pp03-fastrack-original-imaf9qhecbmzkf8z.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmxrwy80/watch/c/x/x/38044pp03-fastrack-original-imaf9qhebfq7qjzz.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "077",
+    "category": "others",
+    "sub_category": "Watch",
+    "type": "Women",
+    "brand": "Casio",
+    "name": "Casio A902 Enticer Ladies Watch",
+    "price": "4995",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j8ndea80/watch/2/5/g/a902-casio-original-imaeymggabhz2aqr.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j8rnpu80/watch/2/5/g/a902-casio-original-imaeymgyrqkzk73n.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "078",
+    "category": "others",
+    "sub_category": "Watch",
+    "type": "Women",
+    "brand": "Titan",
+    "name": "Titan NH2455BM01 Raga Watch",
+    "price": "3495",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/watch/a/z/y/2455bm01-titan-original-imadnbyu77qz9yce.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/watch/a/z/y/2455bm01-titan-original-imadnbyrb7hajq2y.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "079",
+    "category": "others",
+    "sub_category": "Watch",
+    "type": "Women",
+    "brand": "Titan",
+    "name": "Titan 2594BM01 Watch",
+    "price": "1835",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jfea93k0/watch/y/f/c/2594bm01-titan-original-imaf3nmzheh2emnk.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jfea93k0/watch/y/f/c/2594bm01-titan-original-imaf3vgansyfm8f9.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "080",
+    "category": "others",
+    "sub_category": "Watch",
+    "type": "Women",
+    "brand": "Fossil",
+    "name": "Fossil BQ3182 KARLI Watch",
+    "price": "4310",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jdj4k280/watch/t/v/b/bq3182-fossil-original-imaf2bucvwrbfepz.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jdhp47k0/watch/t/v/b/bq3182-fossil-original-imaf2bucf6rcg7tk.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "081",
+    "category": "others",
+    "sub_category": "Watch",
+    "type": "Women",
+    "brand": "FastTrack",
+    "name": "Fastrack 68007PP01 Trendies Watch",
+    "price": "1355",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jiklh8w0/watch/x/g/4/68007pp01-fastrack-original-imaf6cffjkmtzahb.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jiklh8w0/watch/x/g/4/68007pp01-fastrack-original-imaf6cffzyhxu6ga.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "084",
+    "category": "others",
+    "sub_category": "sports",
+    "brand": "Nivia",
+    "sports": "football",
+    "name": "Nivia Black & White Football",
+    "price": "575",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jjolt3k0/ball/p/x/s/320-350-22-5-black-white-1-fb-278-football-nivia-original-imaff8uxdktcp7vv.jpeg?q=70"
+    ],
+    "Material": "Rubber",
+    "Ideal For": "Men"
+  }
+]
