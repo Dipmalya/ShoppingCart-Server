@@ -29,9 +29,6 @@ var expressServer = app.post("/rest/api/post", (req, res) => {
     }
   }
   productData.push(req.body);
-  res.header("Access-Control-Allow-Origin", "*");
-  res.header("Access-Control-Allow-Methods", "GET,PUT,POST,DELETE");
-  res.header("Access-Control-Allow-Headers", "Content-Type");
   res.send(productData);
   fs.writeFileSync("./Data/product.json", JSON.stringify(productData));
 });
